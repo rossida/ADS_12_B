@@ -53,6 +53,7 @@ Kebutuhan Non-Fungsional dari system ini meliputi:
 -	Proses perhitungan data untuk tampilan persentase kecocokan dikerjakan tidak lebih dari 5 detik
 -	System dapat menjaga privasi user.
 	
+>	Tugas 2
 -	Nama Project	:	System informasi pendukung keputusan pemilihan bidang kerja untuk lulusan Teknik Informatika Universitas Negeri Malang berdasarkan set skill yang telah diambil 
 -	Project Sponsor	:	Konsultan P2BKM Universitas Negeri Malang
 -	Business Needs	:	-	Mengurangi peluang kesalahan pengambilan keputusan pemilihan bidang kerja dengan set skill yang telah diambil.
@@ -66,7 +67,7 @@ Kebutuhan Non-Fungsional dari system ini meliputi:
 -	Special issues	:	-	System dibangun berdasarkan teknologi web responsive 
 -	System dapat dijalankan pada seluruh web browser. 
 
-	Tugas 3
+>	Tugas 3
 Use case name 	: Melihat Lowongan Pekerjaan
 -	Actor	:	Mahasiswa Jurusan Teknik Informatika Universitas Negeri Malang
 -	Description	:	Mahasiswa Jurusan Teknik Informatika Universitas Negeri Malang dapat melihat list lowongan pekerjaan berdasarkan hasil rekomendasi jenis pekerjaan, dimana list lowongan pekerjaan tersebut telah dikelompokkan berdasarkan kategorinya (contoh: perusahaan, instansi, kemitraan, dst)
